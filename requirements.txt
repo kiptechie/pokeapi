@@ -16,3 +16,4 @@ python-dateutil==2.7.3
 python-mimeparse==1.6.0
 simplejson==3.16.0
 six==1.11.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
